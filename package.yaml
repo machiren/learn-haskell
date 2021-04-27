@@ -2,9 +2,9 @@ name:                learn-haskell
 version:             0.1.0.0
 github:              "githubuser/learn-haskell"
 license:             BSD3
-author:              "Author name here"
+author:              "ren machida"
 maintainer:          "example@example.com"
-copyright:           "2021 Author name here"
+copyright:           "2021 Match dev"
 
 extra-source-files:
 - README.md
