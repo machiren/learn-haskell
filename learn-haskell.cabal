@@ -4,16 +4,16 @@ cabal-version: 1.12
 --
 -- see: https://github.com/sol/hpack
 --
--- hash: 204506a218e220e68af5fd48880cbbb9a3eba8fb0bc6b1fc3e4409393fb8e74a
+-- hash: 8cfecd05859287b3da4bb5654939f7a439a55bb77a01ecbfa714c76e39826460
 
 name:           learn-haskell
 version:        0.1.0.0
 description:    Please see the README on GitHub at <https://github.com/githubuser/learn-haskell#readme>
 homepage:       https://github.com/githubuser/learn-haskell#readme
 bug-reports:    https://github.com/githubuser/learn-haskell/issues
-author:         Author name here
+author:         ren machida
 maintainer:     example@example.com
-copyright:      2021 Author name here
+copyright:      2021 Match dev
 license:        BSD3
 license-file:   LICENSE
 build-type:     Simple
